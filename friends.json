@@ -1,0 +1,5 @@
+// Step 1: Read superheroes.json
+
+// Step 2: Write a header to the CSV file
+
+// Step 3: Loop over the members, and for each member write a row to the csv file
